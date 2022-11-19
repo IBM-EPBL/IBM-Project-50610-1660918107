@@ -1,6 +1,8 @@
 ﻿# IBM-Project-50610-1660918107
  # Technology: Artificial Intelligence
+ # Project Name: AI Based Discourse for Banking Industry
  # Team ID: PNT2022TMID24647
+ 
 
 Batch: B6-6M4E
 

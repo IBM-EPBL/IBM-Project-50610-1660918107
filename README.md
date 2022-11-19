@@ -1,8 +1,8 @@
 ﻿# IBM-Project-50610-1660918107
- echnology: Artificial Intelligence
-Team ID: PNT2022TMID24647
+ # Technology: Artificial Intelligence
+ # Team ID: PNT2022TMID24647
 
-Batch: B6-2M4E
+Batch: B6-6M4E
 
 Team Leader: Kowsalya M K
 

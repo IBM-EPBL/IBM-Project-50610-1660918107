@@ -4,7 +4,7 @@
  # Team ID: PNT2022TMID24647
  
 
-Batch: B6-6M4E
+Batch: B6-6M2E
 
 Team Leader: Kowsalya M K
 
